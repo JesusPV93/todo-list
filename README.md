@@ -20,11 +20,19 @@ A step by step series of examples that tell you how to get a development environ
 
 Say what the step will be
 
- Give the example
+     Give the example
 
 And repeat
  
- Until finished
+     Until finished
 
 End with a example of getting some data out of the system or using it for a tittle demo
 
+### Deployment 
+
+Add aditional notes to deploy this on this on a live system 
+
+### Built With
+
+- [Contributor Covenant](https://www.contributorcovenant.org/) - Used
+for the Code of Conduct
