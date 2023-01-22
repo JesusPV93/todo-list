@@ -44,3 +44,12 @@ for the Code of Conduct
 **· Programmer A** - *Provided README Template* - [Profile A](https://github/profile A)
 
 **· Programmer B** - *Provided README Template* - [Profile B](https://github/profile B)
+
+See also the list of
+[contributors](https://github.com/PurpleBooth/a-goodreadme-template/contributors) who participated in this project.
+
+### License 
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details
